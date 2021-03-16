@@ -1,0 +1,2 @@
+# internet-speed-twitter-bot
+ automatically to Comcast and complain that his internet speed is only 23 down  5 up when he's paying 150 down 10 up. Now,  the reason why people interact with Twitter in terms of customer service is  because it's public.  Everybody else can see your complaint to a particular company  and if they're a large brand or a large company,  then they tend to have a social media monitor.  And often the customer service you get by complaining on Twitter can actually be  even better than if you call them up or if you email them.
